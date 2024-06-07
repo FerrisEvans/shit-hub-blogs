@@ -1,0 +1,163 @@
+{
+  "main": {
+    "id": "d479ffdb3ded3ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "a213384871caa42a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a2f55b2caa240170",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "49261e24a9d00389",
+    "type": "split",
+    "children": [
+      {
+        "id": "9a261072a24cd253",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fd6f5adc6d2af773",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "22595142664ab34a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5003eb2dfe0c54ca",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cc53f1f8a8528b13",
+    "type": "split",
+    "children": [
+      {
+        "id": "a0a5ebbb32507d84",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f14e650f5c72d42f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "aa04264866ea3664",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7126732904226008",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1af1e1fa25d5e13c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "a2f55b2caa240170",
+  "lastOpenFiles": [
+    "Obsidian Special/Checkbox.md",
+    "Obsidian Special/Callout.md",
+    "Release Blog/maven指南.md",
+    "Release Blog/README.md",
+    "Release Blog/手撕指针·第一章.md",
+    "Release Blog/Unix家谱.md",
+    "Release Blog",
+    "untitled folder",
+    "Obsidian Special",
+    "2345/test.md",
+    "Untitled.md",
+    "Untitled.canvas",
+    "2024-06-05.md",
+    "3456/5678",
+    "3456",
+    "2345",
+    "Untitled 1.canvas"
+  ]
+}
