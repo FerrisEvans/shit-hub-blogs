@@ -8,6 +8,21 @@
 > [!info] Callouts can have custom titles
 > Like this one.
 
+```markdown
+> [!info]+ Callouts can have custom titles
+> Like this one.
+```
+
+> [!info]+ Callouts can have custom titles
+> Like this one.
+
+```markdown
+> [!info]- Callouts can have custom titles
+> Like this one.
+```
+
+> [!info]- Callouts can have custom titles
+> Like this one.
 # tag
 
 > [!info] Info

@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "a213384871caa42a",
+        "id": "e2625e6a49eb834a",
         "type": "tabs",
         "children": [
           {
-            "id": "a2f55b2caa240170",
+            "id": "c6ee99b7d6fce41f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian Special/Callout.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Obsidian Special/Callout.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Obsidian Special/Callout.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Obsidian Special/Callout.md"
+              }
             }
           }
         ],
@@ -140,10 +148,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a2f55b2caa240170",
+  "active": "c6ee99b7d6fce41f",
   "lastOpenFiles": [
     "Obsidian Special/Checkbox.md",
     "Obsidian Special/Callout.md",
+    "English/Ted",
+    "Untitled",
+    "English",
     "Release Blog/maven指南.md",
     "Release Blog/README.md",
     "Release Blog/手撕指针·第一章.md",
