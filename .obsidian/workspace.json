@@ -4,11 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "e2625e6a49eb834a",
+        "id": "3a017480cbea505f",
         "type": "tabs",
         "children": [
           {
-            "id": "c6ee99b7d6fce41f",
+            "id": "7ce48a26bb902308",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian Special/Callout.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "989acf27d3281984",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -134,8 +146,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,22 +159,26 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c6ee99b7d6fce41f",
+  "active": "7ce48a26bb902308",
   "lastOpenFiles": [
-    "Obsidian Special/Checkbox.md",
+    "菜谱/红烧土豆.md",
+    "菜谱/青椒炒豆皮.md",
+    "菜谱/青椒炒肉.md",
     "Obsidian Special/Callout.md",
-    "English/Ted",
-    "Untitled",
-    "English",
-    "Release Blog/maven指南.md",
-    "Release Blog/README.md",
+    "Obsidian Special/Checkbox.md",
+    "Game Dev/游戏设计入门.md",
+    "菜谱",
     "Release Blog/手撕指针·第一章.md",
     "Release Blog/Unix家谱.md",
+    "Release Blog/README.md",
+    "Release Blog/maven指南.md",
+    "Game Dev",
+    "English/Ted",
+    "English",
     "Release Blog",
     "untitled folder",
     "Obsidian Special",
     "2345/test.md",
-    "Untitled.md",
     "Untitled.canvas",
     "2024-06-05.md",
     "3456/5678",
