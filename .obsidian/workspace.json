@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "739d63116625b89b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Dev/如何完成GDD.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "989acf27d3281984",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian Special/Callout.md",
+                "file": "Game Dev/如何完成GDD.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian Special/Callout.md",
+                "file": "Game Dev/如何完成GDD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian Special/Callout.md"
+                "file": "Game Dev/如何完成GDD.md"
               }
             }
           }
@@ -159,14 +172,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7ce48a26bb902308",
+  "active": "739d63116625b89b",
   "lastOpenFiles": [
+    "Obsidian Special/Callout.md",
+    "Game Dev/如何完成GDD.md",
+    "Game Dev/游戏设计入门.md",
+    "Game Dev/书单.md",
+    "Obsidian Special/Checkbox.md",
     "菜谱/红烧土豆.md",
     "菜谱/青椒炒豆皮.md",
     "菜谱/青椒炒肉.md",
-    "Obsidian Special/Callout.md",
-    "Obsidian Special/Checkbox.md",
-    "Game Dev/游戏设计入门.md",
     "菜谱",
     "Release Blog/手撕指针·第一章.md",
     "Release Blog/Unix家谱.md",
