@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "1bb4f040cee579c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "第一章·初入厨房.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "989acf27d3281984",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Dev/通关，游戏设计之道.md",
+                "file": "第一章·初入厨房.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Dev/通关，游戏设计之道.md",
+                "file": "第一章·初入厨房.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Dev/通关，游戏设计之道.md"
+                "file": "第一章·初入厨房.md"
               }
             }
           }
@@ -159,10 +172,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fc74f171171517c8",
+  "active": "1bb4f040cee579c8",
   "lastOpenFiles": [
-    "Game Dev/书单.md",
+    "第一章·初入厨房.md",
     "Game Dev/通关，游戏设计之道.md",
+    "学做菜！",
+    "Game Dev/书单.md",
     "Obsidian Special/Callout.md",
     "《通关，游戏设计之道》.md",
     "Game Dev/如何完成GDD.md",
@@ -187,7 +202,6 @@
     "2024-06-05.md",
     "3456/5678",
     "3456",
-    "2345",
     "Untitled 1.canvas"
   ]
 }
