@@ -20,6 +20,90 @@
             }
           },
           {
+            "id": "f12819aa503a6a39",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "第一章·初入厨房.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "035d350bee44a953",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "第三章·蔬菜.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "69df7730c00e27fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "第四章·肉菜.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f950f2231bc199ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "第五章·禽类.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6a579a56b60d0435",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "第六章·鱼虾河鲜.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b5744d84f376d8b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "第七章·凉菜.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b78ad1405af0ada9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "第四章·肉菜.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "1bb4f040cee579c8",
             "type": "leaf",
             "state": {
@@ -31,7 +115,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -50,7 +135,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byCreatedTimeReverse"
               }
             }
           },
@@ -97,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "第一章·初入厨房.md",
+                "file": "第四章·肉菜.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -114,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "第一章·初入厨房.md",
+                "file": "第四章·肉菜.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "第一章·初入厨房.md"
+                "file": "第四章·肉菜.md"
               }
             }
           }
@@ -159,10 +244,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fc74f171171517c8",
+  "active": "b78ad1405af0ada9",
   "lastOpenFiles": [
-    "Obsidian Special/Checkbox.md",
+    "第三章·蔬菜.md",
+    "第二章·刀.md",
     "第一章·初入厨房.md",
+    "第八章·面食.md",
+    "第七章·凉菜.md",
+    "第六章·鱼虾河鲜.md",
+    "第五章·禽类.md",
+    "第四章·肉菜.md",
+    "Obsidian Special/Checkbox.md",
     "Obsidian Special/Callout.md",
     "Game Dev/通关，游戏设计之道.md",
     "学做菜！",
