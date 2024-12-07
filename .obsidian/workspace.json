@@ -4,119 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "3a017480cbea505f",
+        "id": "1781179840264b0a",
         "type": "tabs",
         "children": [
           {
-            "id": "fc74f171171517c8",
+            "id": "a6f12fba60e4d140",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "第一章·初入厨房.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f12819aa503a6a39",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "第一章·初入厨房.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "035d350bee44a953",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "第三章·蔬菜.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "69df7730c00e27fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "第四章·肉菜.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f950f2231bc199ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "第五章·禽类.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6a579a56b60d0435",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "第六章·鱼虾河鲜.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b5744d84f376d8b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "第七章·凉菜.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b78ad1405af0ada9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "第四章·肉菜.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1bb4f040cee579c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Obsidian Special/Callout.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -182,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "第四章·肉菜.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -199,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "第四章·肉菜.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "第四章·肉菜.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -244,43 +139,45 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b78ad1405af0ada9",
+  "active": "fd6f5adc6d2af773",
   "lastOpenFiles": [
-    "第三章·蔬菜.md",
-    "第二章·刀.md",
-    "第一章·初入厨房.md",
-    "第八章·面食.md",
+    "Game Dev/Mind/1. 基础能力/1.1 编程语言/1.1.7 编程语言高阶概念.md",
+    "Game Dev/Mind/1. 基础能力/1.1 编程语言/1.1.6 内存管理.md",
+    "Game Dev/Mind/1. 基础能力/1.1 编程语言/1.1.5 编程语言综合.md",
+    "Game Dev/Mind/1. 基础能力/1.1 编程语言/1.1.4 JS.md",
+    "Game Dev/Mind/1. 基础能力/1.1 编程语言/1.1.3 C#.md",
+    "Game Dev/Mind/1. 基础能力/1.1 编程语言/1.1.2* C++.md",
+    "Game Dev/Mind/1. 基础能力/1.1 编程语言/1.1.3 C.md",
+    "Game Dev/Mind/1. 基础能力/1.1 编程语言/1.1.1 编程语言基础概念.md",
+    "Game Dev/书单.md",
+    "Game Dev/Mind/6. 运营能力/6.3 产品商业化",
+    "Game Dev/Mind/6. 运营能力/6.2 产品运营支持",
+    "Game Dev/Mind/6. 运营能力/6.1 运维技术",
+    "Game Dev/Mind/5. 管理能力/5.3 项目管理",
+    "Game Dev/Mind/5. 管理能力/5.2 质量保障",
+    "Game Dev/Mind/5. 管理能力/5.1 工作流",
+    "Game Dev/Mind/4. 生产能力/4.3 技术中台",
+    "Game Dev/Mind/4. 生产能力/4.2 工具开发",
+    "Game Dev/Mind/4. 生产能力/4.1 游戏生产",
+    "Game Dev/Mind/3. 研发能力/3.3 业务层功能",
+    "Game Dev/通关，游戏设计之道.md",
+    "Game Dev/如何完成GDD.md",
+    "Game Dev/游戏设计入门.md",
+    "Obsidian Special/Callout.md",
     "第七章·凉菜.md",
     "第六章·鱼虾河鲜.md",
     "第五章·禽类.md",
     "第四章·肉菜.md",
+    "Game Dev/武侠RPG/单页说明书.md",
+    "Game Dev/武侠RPG/十页说明书.md",
+    "Game Dev/武侠RPG/游戏设计文档.md",
+    "Game Dev/武侠RPG/流程设计表.md",
+    "第二章·刀.md",
+    "第一章·初入厨房.md",
+    "第三章·蔬菜.md",
+    "第八章·面食.md",
     "Obsidian Special/Checkbox.md",
-    "Obsidian Special/Callout.md",
-    "Game Dev/通关，游戏设计之道.md",
-    "学做菜！",
-    "Game Dev/书单.md",
-    "《通关，游戏设计之道》.md",
-    "Game Dev/如何完成GDD.md",
-    "Game Dev/游戏设计入门.md",
-    "菜谱/红烧土豆.md",
-    "菜谱/青椒炒豆皮.md",
-    "菜谱/青椒炒肉.md",
-    "菜谱",
-    "Release Blog/手撕指针·第一章.md",
-    "Release Blog/Unix家谱.md",
-    "Release Blog/README.md",
-    "Release Blog/maven指南.md",
-    "Game Dev",
-    "English/Ted",
-    "English",
-    "Release Blog",
-    "untitled folder",
-    "Obsidian Special",
-    "2345/test.md",
     "Untitled.canvas",
-    "2024-06-05.md",
-    "3456/5678",
-    "3456",
     "Untitled 1.canvas"
   ]
 }
