@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Dev/Mind/3. 研发能力/3.3 业务层功能/3.3.3 综合业务层功能.md",
+                "file": "Game Dev/Mind/4. 生产能力/4.3 技术中台/4.3.3 DevOps.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Dev/Mind/3. 研发能力/3.3 业务层功能/3.3.3 综合业务层功能.md",
+                "file": "Game Dev/Mind/4. 生产能力/4.3 技术中台/4.3.3 DevOps.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Dev/Mind/3. 研发能力/3.3 业务层功能/3.3.3 综合业务层功能.md",
+                "file": "Game Dev/Mind/4. 生产能力/4.3 技术中台/4.3.3 DevOps.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Dev/Mind/3. 研发能力/3.3 业务层功能/3.3.3 综合业务层功能.md"
+                "file": "Game Dev/Mind/4. 生产能力/4.3 技术中台/4.3.3 DevOps.md"
               }
             }
           }
@@ -149,8 +149,18 @@
   },
   "active": "a6f12fba60e4d140",
   "lastOpenFiles": [
-    "Game Dev/Mind/3. 研发能力/3.3 业务层功能/Untitled.md",
+    "Game Dev/Mind/4. 生产能力/4.3 技术中台/4.3.2 技术支持.md",
+    "Game Dev/Mind/4. 生产能力/4.3 技术中台/4.3.3 DevOps.md",
+    "Game Dev/Mind/4. 生产能力/4.3 技术中台/4.3.1 快速开发框架.md",
+    "Game Dev/Mind/4. 生产能力/4.2 工具开发/4.2.3 游戏数据文件.md",
+    "Game Dev/Mind/4. 生产能力/4.2 工具开发/4.2.2 工具开发与应用.md",
+    "Game Dev/Mind/4. 生产能力/4.2 工具开发/4.2.1 编辑器开发.md",
+    "Game Dev/Mind/4. 生产能力/4.1 游戏生产/4.1.4 引擎的其他系统.md",
+    "Game Dev/Mind/4. 生产能力/4.1 游戏生产/4.1.3 引擎的基本功能系统.md",
+    "Game Dev/Mind/4. 生产能力/4.1 游戏生产/4.1.2 ⭕️ AI助力游戏生产.md",
+    "Game Dev/Mind/4. 生产能力/4.1 游戏生产/4.1.1 数字内容生产.md",
     "Game Dev/Mind/3. 研发能力/3.3 业务层功能/3.3.3 综合业务层功能.md",
+    "Game Dev/Mind/3. 研发能力/3.3 业务层功能/Untitled.md",
     "Game Dev/Mind/3. 研发能力/3.3 业务层功能/3.3.2 角色.md",
     "Game Dev/Mind/3. 研发能力/3.3 业务层功能/3.3.1 ⭕️ 摄像机控制.md",
     "Game Dev/Mind/3. 研发能力/3.2 服务端产品研发/3.2.5 ⭕️ 服务端业务架构.md",
@@ -166,16 +176,6 @@
     "Game Dev/Mind/3. 研发能力/3.1 客户端产品研发/3.1.1 ⭕️ 客户端底层通用系统.md",
     "Game Dev/Mind/3. 研发能力/3.1 客户端产品研发/3.1.3 ⭕️ 客户端优化.md",
     "Game Dev/Mind/3. 研发能力/3.1 客户端产品研发/3.1.2 客户端3D场景开发.md",
-    "Game Dev/Mind/2. 技术能力/2.3 开发者工具箱/2.3.5 日常工具.md",
-    "Game Dev/Mind/2. 技术能力/2.3 开发者工具箱/2.3.4 设计工具.md",
-    "Game Dev/Mind/2. 技术能力/2.3 开发者工具箱/2.3.3 服务端开发工具.md",
-    "Game Dev/Mind/2. 技术能力/2.3 开发者工具箱/2.3.2 客户端开发工具.md",
-    "Game Dev/Mind/2. 技术能力/2.3 开发者工具箱/2.3.1 通用工具.md",
-    "Game Dev/Mind/2. 技术能力/2.2 服务端技术/2.2.3 服务端中间件.md",
-    "Game Dev/Mind/2. 技术能力/2.2 服务端技术/2.2.2 数据库.md",
-    "Game Dev/Mind/2. 技术能力/2.2 服务端技术/2.2.1 网络与通信.md",
-    "Game Dev/Mind/2. 技术能力/2.1 客户端技术/2.1.7 平台开发.md",
-    "Game Dev/Mind/2. 技术能力/2.1 客户端技术/2.1.6 游戏引擎概念与应用.md",
     "Game Dev/Mind/1. 基础能力/1.3 通用基础/Untitled",
     "Game Dev/Mind/6. 运营能力/6.3 产品商业化",
     "Game Dev/Mind/6. 运营能力/6.2 产品运营支持",
