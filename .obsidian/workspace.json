@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Dev/Mind/1. 基础能力/1.3 通用基础/1.3.5 计算机网络.md",
+                "file": "Game Dev/Mind/2. 技术能力/2.3 开发者工具箱/2.3.5 日常工具.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Dev/Mind/1. 基础能力/1.3 通用基础/1.3.5 计算机网络.md",
+                "file": "Game Dev/Mind/2. 技术能力/2.3 开发者工具箱/2.3.5 日常工具.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Dev/Mind/1. 基础能力/1.3 通用基础/1.3.5 计算机网络.md",
+                "file": "Game Dev/Mind/2. 技术能力/2.3 开发者工具箱/2.3.5 日常工具.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Dev/Mind/1. 基础能力/1.3 通用基础/1.3.5 计算机网络.md"
+                "file": "Game Dev/Mind/2. 技术能力/2.3 开发者工具箱/2.3.5 日常工具.md"
               }
             }
           }
@@ -149,7 +149,24 @@
   },
   "active": "a6f12fba60e4d140",
   "lastOpenFiles": [
-    "Game Dev/Mind/1. 基础能力/1.3 通用基础/1.3.1* 数学.md",
+    "Game Dev/Mind/2. 技术能力/2.3 开发者工具箱/2.3.4 设计工具.md",
+    "Game Dev/Mind/2. 技术能力/2.3 开发者工具箱/2.3.5 日常工具.md",
+    "Game Dev/Mind/2. 技术能力/2.3 开发者工具箱/2.3.3 服务端开发工具.md",
+    "Game Dev/Mind/2. 技术能力/2.3 开发者工具箱/2.3.2 客户端开发工具.md",
+    "Game Dev/Mind/2. 技术能力/2.3 开发者工具箱/2.3.1 通用工具.md",
+    "Game Dev/Mind/2. 技术能力/2.2 服务端技术/2.2.3 服务端中间件.md",
+    "Game Dev/Mind/2. 技术能力/2.2 服务端技术/2.2.2 数据库.md",
+    "Game Dev/Mind/2. 技术能力/2.2 服务端技术/2.2.1 网络与通信.md",
+    "Game Dev/Mind/2. 技术能力/2.1 客户端技术/2.1.7 平台开发.md",
+    "Game Dev/Mind/2. 技术能力/2.1 客户端技术/2.1.6 游戏引擎概念与应用.md",
+    "Game Dev/Mind/1. 基础能力/1.3 通用基础/1.3.1 ⭕️ 数学.md",
+    "Game Dev/Mind/1. 基础能力/1.2 程序设计/1.2.1 ⭕️ 设计模式.md",
+    "Game Dev/Mind/1. 基础能力/1.1 编程语言/1.1.2 ⭕️ C++.md",
+    "Game Dev/Mind/2. 技术能力/2.1 客户端技术/2.1.4 ⭕️ 声音.md",
+    "Game Dev/Mind/2. 技术能力/2.1 客户端技术/2.1.2 ⭕️ 物理.md",
+    "Game Dev/Mind/2. 技术能力/2.1 客户端技术/2.1.1 ⭕️ 图形与渲染.md",
+    "Game Dev/Mind/2. 技术能力/2.1 客户端技术/2.1.3 ⭕️ UI.md",
+    "Game Dev/Mind/2. 技术能力/2.1 客户端技术/2.1.5 动画与特效.md",
     "Game Dev/Mind/1. 基础能力/1.3 通用基础/1.3.5 计算机网络.md",
     "Game Dev/Mind/1. 基础能力/1.3 通用基础/1.3.4 计算机组成原理.md",
     "Game Dev/Mind/1. 基础能力/1.3 通用基础/Untitled",
@@ -158,16 +175,7 @@
     "Game Dev/Mind/1. 基础能力/1.2 程序设计/1.2.4 代码重构.md",
     "Game Dev/Mind/1. 基础能力/1.2 程序设计/1.2.3 算法.md",
     "Game Dev/Mind/1. 基础能力/1.2 程序设计/1.2.2 数据结构.md",
-    "Game Dev/Mind/1. 基础能力/1.2 程序设计/1.2.1* 设计模式.md",
     "Game Dev/Mind/1. 基础能力/1.1 编程语言/1.1.7 编程语言高阶概念.md",
-    "Game Dev/Mind/1. 基础能力/1.1 编程语言/1.1.6 内存管理.md",
-    "Game Dev/Mind/1. 基础能力/1.1 编程语言/1.1.5 编程语言综合.md",
-    "Game Dev/Mind/1. 基础能力/1.1 编程语言/1.1.4 JS.md",
-    "Game Dev/Mind/1. 基础能力/1.1 编程语言/1.1.3 C#.md",
-    "Game Dev/Mind/1. 基础能力/1.1 编程语言/1.1.2* C++.md",
-    "Game Dev/Mind/1. 基础能力/1.1 编程语言/1.1.3 C.md",
-    "Game Dev/Mind/1. 基础能力/1.1 编程语言/1.1.1 编程语言基础概念.md",
-    "Game Dev/书单.md",
     "Game Dev/Mind/6. 运营能力/6.3 产品商业化",
     "Game Dev/Mind/6. 运营能力/6.2 产品运营支持",
     "Game Dev/Mind/6. 运营能力/6.1 运维技术",
@@ -177,14 +185,6 @@
     "Game Dev/Mind/4. 生产能力/4.3 技术中台",
     "Game Dev/Mind/4. 生产能力/4.2 工具开发",
     "Game Dev/Mind/4. 生产能力/4.1 游戏生产",
-    "Game Dev/通关，游戏设计之道.md",
-    "Game Dev/如何完成GDD.md",
-    "Game Dev/游戏设计入门.md",
-    "Obsidian Special/Callout.md",
-    "第七章·凉菜.md",
-    "第六章·鱼虾河鲜.md",
-    "第五章·禽类.md",
-    "第四章·肉菜.md",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
